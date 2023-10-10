@@ -1,7 +1,7 @@
 # Hello!👋
 
-I'm a self taught game and web developer. 🎮👨‍💻
-I do blogs and content creation. ✍🎥
+I'm a self taught game and web developer. 🎮👨‍💻  
+I also do blogs and content creation. ✍🎥
 
 🎯 Currently learning Generative AI technology!
 
