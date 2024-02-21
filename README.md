@@ -3,7 +3,7 @@
 I'm a self-taught game and web developer. 🎮👨‍💻  
 I also do blogs and content creation. ✍🎥
 
-🎯 Currently learning Generative AI technology!
+🎯 Currently building Alisa - AI Images Sharing Platform!
 
 ✅ Established my own youtube channel ➡ https://www.youtube.com/@AIisaWeeb  
 ✅ Completed building a personal blog ➡ www.solodevhub.com  
